@@ -1,3 +1,5 @@
 print("hola, esto funciona?)
 
+#ahora en java
+System.out.println("hola, esto funciona?")
 
